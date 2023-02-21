@@ -13,5 +13,5 @@ void main() {
 
   //List
   List<String> listOfNames = ["Gabriel", "Apollo", "Negan"];
-  print(listOfNames[1]);
+  print('${listOfNames[1]} - ${listOfNames[2]}');
 }
